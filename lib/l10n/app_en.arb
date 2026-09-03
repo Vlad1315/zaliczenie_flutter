@@ -1,0 +1,92 @@
+{
+  "@@locale": "en",
+  "appTitle": "Flutter Credit Project",
+  "navHome": "Notes",
+  "navMap": "Map",
+  "navSettings": "Settings",
+  "homeTitle": "My notes",
+  "homeHeroTitle": "Organize your day",
+  "homeHeroSubtitle": "Jot down ideas, set reminders and keep the weather at hand - all in one place.",
+  "notesEmpty": "No notes yet. Add one with the + button.",
+  "addNote": "Add note",
+  "editNote": "Edit note",
+  "noteTitleLabel": "Title",
+  "noteTitleHint": "e.g. Groceries",
+  "noteTitleRequired": "Title is required",
+  "noteContentLabel": "Content",
+  "noteContentHint": "Note content...",
+  "noteDateLabel": "Reminder date",
+  "pickDate": "Pick a date",
+  "attachFile": "Attach file",
+  "attachedFile": "Attachment: {fileName}",
+  "@attachedFile": {
+    "placeholders": {
+      "fileName": { "type": "String" }
+    }
+  },
+  "removeFile": "Remove attachment",
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "weatherSectionTitle": "Weather now",
+  "weatherLoading": "Loading weather...",
+  "weatherError": "Failed to load weather",
+  "weatherTemperature": "Temperature: {value}°C",
+  "@weatherTemperature": {
+    "placeholders": {
+      "value": { "type": "String" }
+    }
+  },
+  "weatherWind": "Wind: {value} km/h",
+  "@weatherWind": {
+    "placeholders": {
+      "value": { "type": "String" }
+    }
+  },
+  "retry": "Retry",
+  "mapTitle": "Map and location",
+  "myLocation": "My location",
+  "locationPermissionDenied": "Location permission denied",
+  "locationServiceDisabled": "Location services are disabled",
+  "locationLoading": "Locating...",
+  "settingsTitle": "Settings",
+  "themeSection": "Appearance",
+  "themeMode": "Theme",
+  "themeLight": "Light",
+  "themeDark": "Dark",
+  "themeSystem": "System",
+  "languageSection": "Language",
+  "language": "App language",
+  "languagePolish": "Polish",
+  "languageEnglish": "English",
+  "aboutSection": "About",
+  "appConfigApiUrl": "API URL (from .env file): {url}",
+  "@appConfigApiUrl": {
+    "placeholders": {
+      "url": { "type": "String" }
+    }
+  },
+  "noteSaved": "Note saved",
+  "noteDeleted": "Note deleted",
+  "confirmDeleteTitle": "Delete this note?",
+  "confirmDeleteMessage": "This action cannot be undone.",
+  "yes": "Yes",
+  "no": "No",
+  "noteDetailsTitle": "Note details",
+  "noNoteFound": "Note not found",
+  "cloudSection": "Cloud (Firebase)",
+  "cloudOpen": "Open cloud chat",
+  "cloudTitle": "Cloud messages",
+  "cloudExplainer": "A public message board (Firebase demo: anonymous sign-in + real-time Firestore) - everyone who opens this app sees the same messages.",
+  "cloudSignedInAs": "Signed in anonymously as: {uid}",
+  "@cloudSignedInAs": {
+    "placeholders": {
+      "uid": { "type": "String" }
+    }
+  },
+  "cloudSigningIn": "Signing in...",
+  "cloudMessageHint": "Write a message...",
+  "cloudSend": "Send",
+  "cloudEmpty": "No messages yet. Be the first!",
+  "cloudError": "Failed to connect to Firebase"
+}

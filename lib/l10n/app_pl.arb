@@ -1,0 +1,92 @@
+{
+  "@@locale": "pl",
+  "appTitle": "Zaliczenie Flutter",
+  "navHome": "Notatki",
+  "navMap": "Mapa",
+  "navSettings": "Ustawienia",
+  "homeTitle": "Moje notatki",
+  "homeHeroTitle": "Zorganizuj swój dzień",
+  "homeHeroSubtitle": "Zapisuj pomysły, ustawiaj przypomnienia i miej pogodę pod ręką - wszystko w jednym miejscu.",
+  "notesEmpty": "Brak notatek. Dodaj pierwszą przyciskiem +.",
+  "addNote": "Dodaj notatkę",
+  "editNote": "Edytuj notatkę",
+  "noteTitleLabel": "Tytuł",
+  "noteTitleHint": "np. Zakupy",
+  "noteTitleRequired": "Tytuł jest wymagany",
+  "noteContentLabel": "Treść",
+  "noteContentHint": "Treść notatki...",
+  "noteDateLabel": "Data przypomnienia",
+  "pickDate": "Wybierz datę",
+  "attachFile": "Dołącz plik",
+  "attachedFile": "Załącznik: {fileName}",
+  "@attachedFile": {
+    "placeholders": {
+      "fileName": { "type": "String" }
+    }
+  },
+  "removeFile": "Usuń załącznik",
+  "save": "Zapisz",
+  "cancel": "Anuluj",
+  "delete": "Usuń",
+  "weatherSectionTitle": "Pogoda teraz",
+  "weatherLoading": "Pobieranie pogody...",
+  "weatherError": "Nie udało się pobrać pogody",
+  "weatherTemperature": "Temperatura: {value}°C",
+  "@weatherTemperature": {
+    "placeholders": {
+      "value": { "type": "String" }
+    }
+  },
+  "weatherWind": "Wiatr: {value} km/h",
+  "@weatherWind": {
+    "placeholders": {
+      "value": { "type": "String" }
+    }
+  },
+  "retry": "Spróbuj ponownie",
+  "mapTitle": "Mapa i lokalizacja",
+  "myLocation": "Moja lokalizacja",
+  "locationPermissionDenied": "Brak uprawnień do lokalizacji",
+  "locationServiceDisabled": "Usługi lokalizacji są wyłączone",
+  "locationLoading": "Ustalanie lokalizacji...",
+  "settingsTitle": "Ustawienia",
+  "themeSection": "Wygląd",
+  "themeMode": "Motyw",
+  "themeLight": "Jasny",
+  "themeDark": "Ciemny",
+  "themeSystem": "Systemowy",
+  "languageSection": "Język",
+  "language": "Język aplikacji",
+  "languagePolish": "Polski",
+  "languageEnglish": "Angielski",
+  "aboutSection": "O aplikacji",
+  "appConfigApiUrl": "Adres API (z pliku .env): {url}",
+  "@appConfigApiUrl": {
+    "placeholders": {
+      "url": { "type": "String" }
+    }
+  },
+  "noteSaved": "Notatka zapisana",
+  "noteDeleted": "Notatka usunięta",
+  "confirmDeleteTitle": "Usunąć notatkę?",
+  "confirmDeleteMessage": "Tej operacji nie można cofnąć.",
+  "yes": "Tak",
+  "no": "Nie",
+  "noteDetailsTitle": "Szczegóły notatki",
+  "noNoteFound": "Nie znaleziono notatki",
+  "cloudSection": "Chmura (Firebase)",
+  "cloudOpen": "Otwórz czat w chmurze",
+  "cloudTitle": "Wiadomości w chmurze",
+  "cloudExplainer": "Publiczna tablica ogłoszeń (demo Firebase: logowanie anonimowe + Firestore w czasie rzeczywistym) - każdy, kto otworzy tę aplikację, widzi te same wiadomości.",
+  "cloudSignedInAs": "Zalogowano anonimowo jako: {uid}",
+  "@cloudSignedInAs": {
+    "placeholders": {
+      "uid": { "type": "String" }
+    }
+  },
+  "cloudSigningIn": "Logowanie...",
+  "cloudMessageHint": "Napisz wiadomość...",
+  "cloudSend": "Wyślij",
+  "cloudEmpty": "Brak wiadomości. Bądź pierwszy!",
+  "cloudError": "Błąd połączenia z Firebase"
+}

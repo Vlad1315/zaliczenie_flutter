@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14197355397",
+    "project_id": "zaliczenie-flutter",
+    "storage_bucket": "zaliczenie-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14197355397:android:638c31ee7443afb9f54aec",
+        "android_client_info": {
+          "package_name": "com.example.zaliczenie_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48eIIO7DJGM-WCcktWaMztMJoyKAg864"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
